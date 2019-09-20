@@ -22,7 +22,7 @@ ToDoItem.propTypes = {
 ToDoItem.defaultProps = {
   text: '',
   isCompleted: false,
-  removeTask: () => {},
+  removeTask: () => { },
   id: 0,
 }
 

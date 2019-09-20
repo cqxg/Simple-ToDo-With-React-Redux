@@ -21,8 +21,8 @@ ToDoList.propTypes = {
 
 ToDoList.defaultProps = {
   tasksList: [],
-  removeTask: () => {},
-  completeTask: () => {},
+  removeTask: () => { },
+  completeTask: () => { },
 }
 
 export default ToDoList;

@@ -23,8 +23,8 @@ ToDoInput.propTypes = {
 }
 
 ToDoInput.defaultProps = {
-  onChange: () => {},
-  onKeyPress: () => {},
+  onChange: () => { },
+  onKeyPress: () => { },
   value: '',
 }
 
